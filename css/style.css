@@ -1,0 +1,51 @@
+
+		html {font-family: 'Gothic A1', sans-serif;}
+		body,h1,h2,p,div,ul,li, section, footer {margin: 0px; padding: 0px}
+		ul{margin: 0px; width: 900px; height: 70px; float: right; padding-right: 18%; padding-left: 0px}
+		li{float: left; list-style-type: none; width: 14%; height: 70px; text-align: center; line-height: 70px}
+		section{margin-bottom: 200px; text-align: center;}
+		.logo{height: 70px; line-height: 70px; width: 140px; float: left; padding-left: 390px; font-weight: 600;}
+		.a{padding-right: 80px}
+		.b{width: 9%}
+		.c{display: flex;  padding-top: 11%;  margin: auto; text-align: center;}
+		.c-1{margin: auto; text-align: center; width: 1300px; display: flex;}
+		.c-2{width: 50%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 40px}
+		.c-3{width: 50%; text-align: center; margin: auto; margin-left:70; line-height: 1.7; margin-bottom: 40px }
+		.c-4{margin: auto; text-align: center; width: 1300px; display: flex;}
+		.c-5{width: 30%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 40px;margin-top: 20%; margin-bottom: 200px }
+		.c-6{width: 70%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 200px; }
+		.c-7{width: 50%; line-height: 1.7; margin-right: 0px; margin-left: 0px;}
+		.c-8{margin: auto; text-align: center; width: 1000px; display: flex;}
+		.d{width: 300px}
+		.e{width: 170px; margin-left: 80px; line-height: 1.7; text-align: left;}
+		.p1{font-size: 0.8em; margin-left: 80px; line-height: 1.7; text-align: left;}
+		.h{width: 700px; padding-top: 300px; margin: auto; }
+		.p2{width: 700px; text-align: center; width: 100%; margin: auto; padding-top: 18%; line-height: 1.7; }
+		.p2-c{color: #030092}
+		.p4{width: 300px; text-align: left; padding-left: 10px; margin: auto; padding-top: 70%; margin-bottom: 200px}
+		.i{background: url(img.jpg); background-size: 800px;background-position: center;  background-repeat: no-repeat; width: 100%; height: 100%}
+		.j{width: 600px; height: 400px ; margin: auto; margin-top: 500px; margin-bottom: 400px}
+		.k{width: 400px; }
+		.p3{font-size: 4em; text-align: center; margin-left:; font-weight: 100; margin-top: 600px;}
+		.l{margin: 0px; padding: 0px; margin-bottom: 200px; text-align: center; width: 600px;}
+		.n{margin: 0px; padding: 0px; margin-bottom: 200px; text-align: center; height: 600px}
+		.m{margin: 0px; padding: 0px; margin-bottom: 200px; text-align: left; width: 600px; margin-left: 10%}
+		.mm{margin: 0px; padding: 0px; text-align: center; width: 600px; margin-bottom: 0px; margin: auto;}
+		.tr{text-align: right; float: right; margin-right: 300px; padding-bottom: 200px}
+		.tt{margin-top: 500px; margin-left: 390px; padding-bottom: 200px }
+		.pp{margin: 0px; padding: 0px; margin-bottom: 50px; text-align: center; padding-bottom: 50px; width: 900px}
+		.ii{ margin-bottom: 300px; line-height: 1.7;}
+		.ff{width: 500px; text-align: right; margin-left: 30%;  }
+		.ee{margin: 0px; padding: 0px; margin-bottom:0px; text-align: center; height: 600px; padding-bottom: px}
+		.zz{margin-bottom: 0px; margin-top: 0px; padding-top: 0px; width: 50%;  text-align: center; margin:; margin: auto; margin: 0px; margin-right: 0px; padding-right: 0px}
+		.li{margin-top: 200px; text-align: left;}
+		.gh{margin: 0px; padding: 0px}
+		.bb{ width:  margin: 0px; width: 400px; padding-top: 0px; margin: 0px; margin: auto; padding-left: 40%; padding-bottom: 0px}
+		.dd{text-align: left; width: 400px; margin-top: 0px; padding-top: 0px; margin: 0px; padding-left: 40%; padding-bottom: 200px; line-height: 1.7}
+		.jk{width: 600px; height: 700px; border: 1px solid#000; margin: auto; margin-top: 400px }
+		.i2{font-size: 0.9em; line-height: 2; margin-left: 60px; margin-top: 40px; text-align: left;}
+		.p11{ margin-bottom: 0px; margin-top: 500px; padding-bottom: 0px; font-size: 0.9em; text-align: center;}
+		.oo{margin-bottom: 0px}
+		.ddd{margin: 0px; padding: 0px; margin-bottom: 400px; text-align: center; height: 600px}
+		.dddd{margin: auto; text-align: center; width: 1300px; display: flex; margin-bottom: 800px}
+		a{color: black; text-decoration: none;}
